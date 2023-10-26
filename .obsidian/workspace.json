@@ -1,56 +1,39 @@
 {
   "main": {
-    "id": "1d95eeeb9b7c9357",
+    "id": "58d45a7599eb24a4",
     "type": "split",
     "children": [
       {
-        "id": "64be241442138566",
+        "id": "e02c9a77ff271758",
         "type": "tabs",
         "children": [
           {
-            "id": "138fb80e038abc48",
+            "id": "d38f8827df97322b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawings/Spanish/Lo Siento.md"
+                "file": "Problem Solving/Math Basics/Digit Basics.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "7cf03f549a8e012e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/Spanish/Hola.md"
-              }
-            }
-          },
-          {
-            "id": "57ce2987c046a103",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2a06985074064e8f",
+    "id": "7734171dfec66613",
     "type": "split",
     "children": [
       {
-        "id": "a5ec564c451e5838",
+        "id": "7c78978fecc230e3",
         "type": "tabs",
         "children": [
           {
-            "id": "7b73112d874c10c9",
+            "id": "ba14e8b5500ef6f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +43,7 @@
             }
           },
           {
-            "id": "a321b46b68de218d",
+            "id": "45797c65acd4288d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +58,7 @@
             }
           },
           {
-            "id": "bba49b8f17769e28",
+            "id": "a77d43c47bf477a5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bb0741c6edaade67",
+    "id": "ed015a044f7eba00",
     "type": "split",
     "children": [
       {
-        "id": "9835bdbb251c7ed1",
+        "id": "9bbd2bd7dbaed333",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9a2ee0a9a7f11f",
+            "id": "c2a33760fd2fa995",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Problem Solving/Math Basics/Digit Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,18 +97,19 @@
             }
           },
           {
-            "id": "04fa9f5b45f444ad",
+            "id": "6e38b787044df3c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Problem Solving/Math Basics/Digit Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8c3c7089ce2b35f2",
+            "id": "0958976b54f61f12",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,11 +120,13 @@
             }
           },
           {
-            "id": "bfb2f29172499ee7",
+            "id": "2d2bf720860ca847",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Problem Solving/Math Basics/Digit Basics.md"
+              }
             }
           }
         ]
@@ -156,44 +143,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "57ce2987c046a103",
+  "active": "d38f8827df97322b",
   "lastOpenFiles": [
-    "Drawings/Spanish/Confusing Words.md",
-    "Drawings/Spanish/Lo Siento.md",
-    "Drawings/Spanish/Hola.md",
-    "Drawings/Recursion.md",
-    "Drawings/Spanish",
-    "Spanish/Verbs.md",
-    "Drawings/Spanish/Want-Have-Know.md",
-    "Spanish/Confusing Words.md",
-    "Spanish/Hola.md",
-    "Drawings/Fibonacci Sequence.md",
-    "Drawings/Character Hashing.md",
-    "Problem Solving/Memory/Stack.md",
-    "Problem Solving/Memory/Hashing.md",
-    "Drawings/Chaining Methods.md",
-    "Problem Solving/Memory/Recursion Tree.md",
-    "Problem Solving/Memory",
-    "Drawings/Extract Digits.md",
     "Problem Solving/Math Basics/GCD.md",
+    "Distributed Systems/CAP Theorem.md",
+    "Spanish/Verbs.md",
+    "Spanish/Hola.md",
+    "Spanish/Confusing Words.md",
+    "Spanish",
+    "Problem Solving/Memory/Stack.md",
+    "Problem Solving/Memory/Recursion Tree.md",
+    "Problem Solving/Memory/Hashing.md",
     "Problem Solving/Math Basics/Digit Basics.md",
-    "Drawings/GCD.md",
+    "Problem Solving/Memory",
     "Problem Solving/Math Basics",
     "Problem Solving",
-    "Distributed Systems/CAP Theorem.md",
-    "Spanish",
-    "Distributed Systems/Untitled.md",
+    "Drawings/Spanish/Want-Have-Know.md",
+    "Drawings/Spanish/Lo Siento.md",
+    "Drawings/Spanish/Hola.md",
+    "Drawings/Spanish/Confusing Words.md",
+    "Drawings/Spanish",
+    "Drawings/Recursion.md",
+    "Drawings/Fibonacci Sequence.md",
+    "Drawings/GCD.md",
+    "Drawings/Extract Digits.md",
+    "Drawings/Character Hashing.md",
     "Drawings/CAP Theorem.md",
+    "Drawings/Chaining Methods.md",
     "Drawings",
-    "Excalidraw/Drawing 2023-10-15 11.50.31.excalidraw.md",
-    "Distributed Systems/Drawing 2023-10-15 11.27.54.excalidraw.md",
-    "Distributed Systems"
+    "Distributed Systems",
+    "Obsidian-Notes/Spanish/Verbs.md",
+    "Obsidian-Notes/Spanish/Hola.md",
+    "Obsidian-Notes/Spanish/Confusing Words.md",
+    "Obsidian-Notes/Spanish",
+    "Obsidian-Notes/Problem Solving/Memory/Stack.md",
+    "Obsidian-Notes/Problem Solving/Memory/Recursion Tree.md",
+    "Obsidian-Notes/Problem Solving/Memory/Hashing.md",
+    "Obsidian-Notes/Problem Solving/Memory",
+    "Obsidian-Notes/Problem Solving/Math Basics"
   ]
 }

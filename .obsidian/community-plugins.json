@@ -1,8 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
-  "obsidian-tasks-plugin",
-  "obsidian-advanced-slides",
-  "obsidian-annotator",
-  "dataview"
+  "dataview",
+  "obsidian-git"
 ]

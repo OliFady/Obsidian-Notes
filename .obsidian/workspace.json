@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "1d95eeeb9b7c9357",
+    "type": "split",
+    "children": [
+      {
+        "id": "64be241442138566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138fb80e038abc48",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Spanish/Lo Siento.md"
+              }
+            }
+          },
+          {
+            "id": "7cf03f549a8e012e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Spanish/Hola.md"
+              }
+            }
+          },
+          {
+            "id": "57ce2987c046a103",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a06985074064e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ec564c451e5838",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b73112d874c10c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a321b46b68de218d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bba49b8f17769e28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb0741c6edaade67",
+    "type": "split",
+    "children": [
+      {
+        "id": "9835bdbb251c7ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b9a2ee0a9a7f11f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04fa9f5b45f444ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c3c7089ce2b35f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfb2f29172499ee7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "57ce2987c046a103",
+  "lastOpenFiles": [
+    "Drawings/Spanish/Confusing Words.md",
+    "Drawings/Spanish/Lo Siento.md",
+    "Drawings/Spanish/Hola.md",
+    "Drawings/Recursion.md",
+    "Drawings/Spanish",
+    "Spanish/Verbs.md",
+    "Drawings/Spanish/Want-Have-Know.md",
+    "Spanish/Confusing Words.md",
+    "Spanish/Hola.md",
+    "Drawings/Fibonacci Sequence.md",
+    "Drawings/Character Hashing.md",
+    "Problem Solving/Memory/Stack.md",
+    "Problem Solving/Memory/Hashing.md",
+    "Drawings/Chaining Methods.md",
+    "Problem Solving/Memory/Recursion Tree.md",
+    "Problem Solving/Memory",
+    "Drawings/Extract Digits.md",
+    "Problem Solving/Math Basics/GCD.md",
+    "Problem Solving/Math Basics/Digit Basics.md",
+    "Drawings/GCD.md",
+    "Problem Solving/Math Basics",
+    "Problem Solving",
+    "Distributed Systems/CAP Theorem.md",
+    "Spanish",
+    "Distributed Systems/Untitled.md",
+    "Drawings/CAP Theorem.md",
+    "Drawings",
+    "Excalidraw/Drawing 2023-10-15 11.50.31.excalidraw.md",
+    "Distributed Systems/Drawing 2023-10-15 11.27.54.excalidraw.md",
+    "Distributed Systems"
+  ]
+}

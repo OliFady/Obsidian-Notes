@@ -1,3 +1,5 @@
 ## Basics
 ![[Want-Have-Know]]
-## P
+![[More Verbs]]
+## Possessions 
+![[possessions]]

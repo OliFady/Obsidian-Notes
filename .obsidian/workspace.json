@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02d4e2c57b8ad172",
+        "id": "b6e4ddb3d8e8e49c",
         "type": "tabs",
         "children": [
           {
-            "id": "565f09b3f1be1169",
+            "id": "8844bf0a2692ef8c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +141,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "565f09b3f1be1169",
+  "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
+    "Drawings/Insertion Sort.md",
     "Problem Solving/Sorting/Insertion Sort.md",
-    "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md",
     "Drawings/Bubble Sort.md",
     "Problem Solving/Sorting/Bubble Sort.md",
     "Problem Solving/Sorting/Selection Sort.md",

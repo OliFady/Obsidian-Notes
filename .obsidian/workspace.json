@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e02c9a77ff271758",
+        "id": "02d4e2c57b8ad172",
         "type": "tabs",
         "children": [
           {
-            "id": "d38f8827df97322b",
+            "id": "565f09b3f1be1169",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawings/More Verbs.md"
+                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawings/More Verbs.md",
+                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawings/More Verbs.md",
+                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawings/More Verbs.md"
+                "file": "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md"
               }
             }
           }
@@ -147,10 +147,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d38f8827df97322b",
+  "active": "565f09b3f1be1169",
   "lastOpenFiles": [
-    "Spanish/Verbs.md",
+    "Problem Solving/Sorting/Insertion Sort.md",
+    "Drawings/Drawing 2023-10-28 10.36.42.excalidraw.md",
+    "Drawings/Bubble Sort.md",
+    "Problem Solving/Sorting/Bubble Sort.md",
+    "Problem Solving/Sorting/Selection Sort.md",
+    "Drawings/Selection Sort.md",
     "Drawings/More Verbs.md",
+    "Problem Solving/Sorting",
+    "Spanish/Verbs.md",
     "Drawings/possessions.md",
     "Distributed Systems/CAP Theorem.md",
     "Problem Solving/Memory/Hashing.md",
@@ -174,16 +181,9 @@
     "Drawings/GCD.md",
     "Drawings/Extract Digits.md",
     "Drawings/Character Hashing.md",
-    "Drawings/CAP Theorem.md",
-    "Drawings/Chaining Methods.md",
     "Drawings",
     "Distributed Systems",
-    "Obsidian-Notes/Spanish/Verbs.md",
-    "Obsidian-Notes/Spanish/Hola.md",
-    "Obsidian-Notes/Spanish/Confusing Words.md",
     "Obsidian-Notes/Spanish",
-    "Obsidian-Notes/Problem Solving/Memory/Stack.md",
-    "Obsidian-Notes/Problem Solving/Memory",
-    "Obsidian-Notes/Problem Solving/Math Basics"
+    "Obsidian-Notes/Problem Solving/Memory"
   ]
 }

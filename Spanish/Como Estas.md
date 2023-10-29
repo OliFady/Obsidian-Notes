@@ -1,0 +1,1 @@
+![[Como Estas 2023-10-29 19.27.23.excalidraw]]

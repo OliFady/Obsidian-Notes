@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38a630361101d15b",
+        "id": "fd005cd9a403b4f8",
         "type": "tabs",
         "children": [
           {
-            "id": "1f6cf82cebba509a",
+            "id": "d5bcaccb88adac82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md",
+                "file": "Spanish/Verbs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md",
+                "file": "Spanish/Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md",
+                "file": "Spanish/Verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md"
+                "file": "Spanish/Verbs.md"
               }
             }
           }
@@ -149,8 +149,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f6cf82cebba509a",
+  "active": "d5bcaccb88adac82",
   "lastOpenFiles": [
+    "Drawings/Spanish/Confusing Words.md",
+    "Spanish/Confusing Words.md",
+    "Spanish/Hola.md",
+    "Drawings/More Verbs.md",
+    "Spanish/Verbs.md",
+    "Drawings/Como Estas 2023-10-29 19.27.23.excalidraw.md",
+    "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
     "Distributed Systems/Hashing.md",
     "Drawings/Consistent Hashing.md",
@@ -158,9 +165,6 @@
     "Problem Solving/Sorting/Insertion Sort.md",
     "Problem Solving/Sorting/Bubble Sort.md",
     "Problem Solving/Sorting/Selection Sort.md",
-    "Spanish/Verbs.md",
-    "Spanish/Hola.md",
-    "Spanish/Confusing Words.md",
     "Spanish",
     "Problem Solving/Memory/Stack.md",
     "Problem Solving/Memory/Recursion Tree.md",
@@ -175,14 +179,10 @@
     "Drawings/Spanish/Want-Have-Know.md",
     "Drawings/Spanish/Lo Siento.md",
     "Drawings/Spanish/Hola.md",
-    "Drawings/Spanish/Confusing Words.md",
     "Drawings/Spanish",
     "Drawings/Selection Sort.md",
     "Drawings/Recursion.md",
-    "Drawings/More Verbs.md",
     "Drawings/Insertion Sort.md",
-    "Drawings/GCD.md",
-    "Drawings/Fibonacci Sequence.md",
     "Drawings",
     "Distributed Systems"
   ]

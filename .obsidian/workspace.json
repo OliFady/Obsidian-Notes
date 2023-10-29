@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "58d45a7599eb24a4",
+    "id": "600290f4bb4ecd33",
     "type": "split",
     "children": [
       {
-        "id": "b6e4ddb3d8e8e49c",
+        "id": "264bdb802a001a74",
         "type": "tabs",
         "children": [
           {
-            "id": "8844bf0a2692ef8c",
+            "id": "7f8b70a6672c3995",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Problem Solving/Sorting/Bubble Sort.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7734171dfec66613",
+    "id": "b32704602bf763d3",
     "type": "split",
     "children": [
       {
-        "id": "7c78978fecc230e3",
+        "id": "cab65ae1fec23722",
         "type": "tabs",
         "children": [
           {
-            "id": "ba14e8b5500ef6f8",
+            "id": "1d2c6c90ea187877",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "45797c65acd4288d",
+            "id": "d2b0fa3349dd4e6c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "a77d43c47bf477a5",
+            "id": "c7e55478748419fc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ed015a044f7eba00",
+    "id": "80c109c0781afcf5",
     "type": "split",
     "children": [
       {
-        "id": "9bbd2bd7dbaed333",
+        "id": "8e17732842dcb3ff",
         "type": "tabs",
         "children": [
           {
-            "id": "c2a33760fd2fa995",
+            "id": "c09af906ec745bdd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Problem Solving/Sorting/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "6e38b787044df3c3",
+            "id": "9dc20ba77b88b973",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Problem Solving/Sorting/Bubble Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0958976b54f61f12",
+            "id": "eb9dfcba25506350",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "2d2bf720860ca847",
+            "id": "6ea6e24656597d69",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Problem Solving/Sorting/Bubble Sort.md"
+              }
             }
           }
         ]
@@ -141,43 +149,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8844bf0a2692ef8c",
+  "active": "7f8b70a6672c3995",
   "lastOpenFiles": [
-    "Drawings/Insertion Sort.md",
     "Problem Solving/Sorting/Insertion Sort.md",
-    "Drawings/Bubble Sort.md",
-    "Problem Solving/Sorting/Bubble Sort.md",
     "Problem Solving/Sorting/Selection Sort.md",
-    "Drawings/Selection Sort.md",
-    "Drawings/More Verbs.md",
-    "Problem Solving/Sorting",
+    "Problem Solving/Sorting/Bubble Sort.md",
     "Spanish/Verbs.md",
-    "Drawings/possessions.md",
-    "Distributed Systems/CAP Theorem.md",
-    "Problem Solving/Memory/Hashing.md",
-    "Problem Solving/Memory/Recursion Tree.md",
     "Spanish/Hola.md",
     "Spanish/Confusing Words.md",
-    "Problem Solving/Math Basics/Digit Basics.md",
-    "Problem Solving/Math Basics/GCD.md",
     "Spanish",
     "Problem Solving/Memory/Stack.md",
+    "Problem Solving/Memory/Recursion Tree.md",
+    "Problem Solving/Memory/Hashing.md",
+    "Problem Solving/Math Basics/GCD.md",
+    "Problem Solving/Math Basics/Digit Basics.md",
+    "Problem Solving/Sorting",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",
     "Problem Solving",
+    "Drawings/possessions.md",
     "Drawings/Spanish/Want-Have-Know.md",
     "Drawings/Spanish/Lo Siento.md",
     "Drawings/Spanish/Hola.md",
     "Drawings/Spanish/Confusing Words.md",
     "Drawings/Spanish",
+    "Drawings/Selection Sort.md",
     "Drawings/Recursion.md",
-    "Drawings/Fibonacci Sequence.md",
+    "Drawings/More Verbs.md",
+    "Drawings/Insertion Sort.md",
     "Drawings/GCD.md",
+    "Drawings/Fibonacci Sequence.md",
     "Drawings/Extract Digits.md",
     "Drawings/Character Hashing.md",
+    "Drawings/Chaining Methods.md",
+    "Drawings/CAP Theorem.md",
     "Drawings",
-    "Distributed Systems",
-    "Obsidian-Notes/Spanish",
-    "Obsidian-Notes/Problem Solving/Memory"
+    "Distributed Systems"
   ]
 }

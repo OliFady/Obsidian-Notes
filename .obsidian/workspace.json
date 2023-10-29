@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd005cd9a403b4f8",
+        "id": "43168442d1e87453",
         "type": "tabs",
         "children": [
           {
-            "id": "d5bcaccb88adac82",
+            "id": "2bd21e736dedac7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Spanish/Verbs.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawings/Como Estas 2.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanish/Verbs.md",
+                "file": "Drawings/Como Estas 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanish/Verbs.md",
+                "file": "Drawings/Como Estas 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanish/Verbs.md"
+                "file": "Drawings/Como Estas 2.md"
               }
             }
           }
@@ -149,15 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5bcaccb88adac82",
+  "active": "2bd21e736dedac7d",
   "lastOpenFiles": [
+    "Spanish/Como Estas.md",
+    "Drawings/Como Estas 1.md",
+    "Drawings/Como Estas 2.md",
+    "Spanish/Hola.md",
+    "Spanish/Verbs.md",
     "Drawings/Spanish/Confusing Words.md",
     "Spanish/Confusing Words.md",
-    "Spanish/Hola.md",
     "Drawings/More Verbs.md",
-    "Spanish/Verbs.md",
-    "Drawings/Como Estas 2023-10-29 19.27.23.excalidraw.md",
-    "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
     "Distributed Systems/Hashing.md",
     "Drawings/Consistent Hashing.md",
@@ -182,7 +181,6 @@
     "Drawings/Spanish",
     "Drawings/Selection Sort.md",
     "Drawings/Recursion.md",
-    "Drawings/Insertion Sort.md",
     "Drawings",
     "Distributed Systems"
   ]

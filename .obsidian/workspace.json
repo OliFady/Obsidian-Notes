@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "43168442d1e87453",
+        "id": "5fbf276784720742",
         "type": "tabs",
         "children": [
           {
-            "id": "2bd21e736dedac7d",
+            "id": "eccd0fea7c0501fe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/Como Estas 2.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawings/Como Estas 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawings/Como Estas 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Drawings/Como Estas 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +141,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bd21e736dedac7d",
+  "active": "eccd0fea7c0501fe",
   "lastOpenFiles": [
+    "Drawings/Como Estas 2.md",
     "Spanish/Como Estas.md",
     "Drawings/Como Estas 1.md",
-    "Drawings/Como Estas 2.md",
     "Spanish/Hola.md",
     "Spanish/Verbs.md",
     "Drawings/Spanish/Confusing Words.md",

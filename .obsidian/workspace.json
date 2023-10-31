@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "59b38c8d137dd29b",
+        "id": "124c74246dc85c57",
         "type": "tabs",
         "children": [
           {
-            "id": "45e8f191493dad3d",
+            "id": "5470ed9b589f06b6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawings/Git Objects.md"
+                "file": "Distributed Systems/Git Internals.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawings/Git Objects.md",
+                "file": "Distributed Systems/Git Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawings/Git Objects.md",
+                "file": "Distributed Systems/Git Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawings/Git Objects.md"
+                "file": "Distributed Systems/Git Internals.md"
               }
             }
           }
@@ -147,11 +149,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45e8f191493dad3d",
+  "active": "5470ed9b589f06b6",
   "lastOpenFiles": [
+    "Drawings/Git Objects.md",
     "Distributed Systems/Git Internals.md",
     "Distributed Systems/Hashing.md",
-    "Drawings/Git Objects.md",
     "Drawings/Como Estas 2.md",
     "Spanish/Como Estas.md",
     "Drawings/Como Estas 1.md",

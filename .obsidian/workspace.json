@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5fbf276784720742",
+        "id": "59b38c8d137dd29b",
         "type": "tabs",
         "children": [
           {
-            "id": "eccd0fea7c0501fe",
+            "id": "45e8f191493dad3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Git Objects.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drawings/Git Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Drawings/Git Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Drawings/Git Objects.md"
+              }
             }
           }
         ]
@@ -141,8 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eccd0fea7c0501fe",
+  "active": "45e8f191493dad3d",
   "lastOpenFiles": [
+    "Distributed Systems/Git Internals.md",
+    "Distributed Systems/Hashing.md",
+    "Drawings/Git Objects.md",
     "Drawings/Como Estas 2.md",
     "Spanish/Como Estas.md",
     "Drawings/Como Estas 1.md",
@@ -152,7 +161,6 @@
     "Spanish/Confusing Words.md",
     "Drawings/More Verbs.md",
     "Problem Solving/Sorting/Merge Sort.md",
-    "Distributed Systems/Hashing.md",
     "Drawings/Consistent Hashing.md",
     "Drawings/Linear Hashing.md",
     "Problem Solving/Sorting/Insertion Sort.md",
@@ -173,8 +181,6 @@
     "Drawings/Spanish/Lo Siento.md",
     "Drawings/Spanish/Hola.md",
     "Drawings/Spanish",
-    "Drawings/Selection Sort.md",
-    "Drawings/Recursion.md",
     "Drawings",
     "Distributed Systems"
   ]

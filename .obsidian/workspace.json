@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "124c74246dc85c57",
+        "id": "e50f61969e27bd09",
         "type": "tabs",
         "children": [
           {
-            "id": "5470ed9b589f06b6",
+            "id": "fc035771105ba8d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spanish/Confusing Words.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanish/Confusing Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanish/Confusing Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spanish/Confusing Words.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,20 +141,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5470ed9b589f06b6",
+  "active": "fc035771105ba8d7",
   "lastOpenFiles": [
+    "Drawings/Merge Sort.md",
+    "Problem Solving/Sorting/Merge Sort.md",
+    "Spanish/Confusing Words.md",
     "Spanish/Hola.md",
     "Spanish/Verbs.md",
     "Drawings/Como Estas 1.md",
     "Spanish/Como Estas.md",
-    "Spanish/Confusing Words.md",
     "Distributed Systems/Git Internals.md",
     "Drawings/Git Objects.md",
     "Distributed Systems/Hashing.md",
     "Drawings/Como Estas 2.md",
     "Drawings/Spanish/Confusing Words.md",
     "Drawings/More Verbs.md",
-    "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Consistent Hashing.md",
     "Drawings/Linear Hashing.md",
     "Problem Solving/Sorting/Insertion Sort.md",
@@ -181,7 +174,6 @@
     "Drawings/possessions.md",
     "Drawings/Spanish/Want-Have-Know.md",
     "Drawings/Spanish/Lo Siento.md",
-    "Drawings/Spanish/Hola.md",
     "Drawings/Spanish",
     "Drawings",
     "Distributed Systems"

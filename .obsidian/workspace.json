@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9de41cabb4437ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Portability/WebSphere MQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portability/WebSphere MQ.md",
+                "file": "Portability/SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portability/WebSphere MQ.md",
+                "file": "Portability/SOAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portability/WebSphere MQ.md"
+                "file": "Portability/SOAP.md"
               }
             }
           }
@@ -162,7 +149,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9de41cabb4437ee6",
+  "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
     "Portability/MQ.md",
     "Portability/WebSphere MQ.md",

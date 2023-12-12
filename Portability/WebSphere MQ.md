@@ -1,3 +1,4 @@
+- Local Queues are the only Queues that hold Msgs
 ### MQMD
 - Message Descriptor Structure
 ### MQOPEN & MQCLOSE
@@ -19,4 +20,6 @@
 - Commits current Unit of work
 - MQBACK rolls back the current of work
 ### MQINQ & MQSET
-- MQINQ Queries values of specific Attr.
+- MQINQ Queries values of specific Attributes 
+### MQDISC
+- Disconnects Queue Manager

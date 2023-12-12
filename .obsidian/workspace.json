@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XML/SOAP.md",
+                "file": "Portability/SOAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MQ.md",
+                "file": "Portability/MQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MQ.md",
+                "file": "Portability/MQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MQ.md",
+                "file": "Portability/MQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MQ.md"
+                "file": "Portability/MQ.md"
               }
             }
           }
@@ -162,13 +162,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9de41cabb4437ee6",
+  "active": "ba14e8b5500ef6f8",
   "lastOpenFiles": [
-    "XML/SOAP.md",
-    "MQ.md",
-    "XML/XSD Template.md",
-    "XML/XSD.md",
-    "XML",
+    "Portability/SOAP.md",
+    "Portability/MQ.md",
+    "Portability/XSD Template.md",
+    "Portability/XSD.md",
+    "Portability",
     "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Merge Sort.md",

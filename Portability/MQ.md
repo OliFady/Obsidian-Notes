@@ -14,4 +14,15 @@
 ### State info
 - changes at anytime (needs polling)
 ### Event Info
-- 
+- Restock Node needs to access many other Services
+
+# Publish/Subscribe
+- Topic can be subscribed on by Consumers
+- Broker Decouples Provider from Consumer by holding Info about Subscriptions
+
+## Types of Data in MQ
+### Query Data
+- Querying current state of an order
+### Business-Critical Data (Most)
+- Message confirming a Payment
+

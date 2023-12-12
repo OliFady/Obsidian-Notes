@@ -27,6 +27,7 @@ elementFormDefault="qualified">
 
 - Complex types contains other elements or attribute under them while simple types don't 
 - Attributes are always simple types.
+- Sequence specifies that the child elements must appear in a specific order
 # Restrictions
 ```xml
 
@@ -37,8 +38,16 @@ Range
     </xs:restriction>
 Enum
     <xs:restriction base="xs:string">  
+      <xs:pattern value="[a-z]"/>
       <xs:enumeration value="Audi"/>  
       <xs:enumeration value="Golf"/>  
       <xs:enumeration value="BMW"/>  
     </xs:restriction>
+Binary
+      <xs:pattern value="male|female"/>
+Whitespace
+      <xs:whiteSpace value="preserve"/>
 ```
+
+# Missed
+- Groups & Attribute Groups

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XML/XSD.md",
+                "file": "XML/XSD Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XML/XSD.md",
+                "file": "XML/XSD Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XML/XSD.md",
+                "file": "XML/XSD Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XML/XSD.md"
+                "file": "XML/XSD Template.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
     "XML/XSD.md",
+    "XML/XSD Template.md",
     "XML",
     "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
@@ -178,7 +179,6 @@
     "Problem Solving/Memory/Recursion Tree.md",
     "Spanish/Hola.md",
     "Spanish/Confusing Words.md",
-    "Problem Solving/Math Basics/Digit Basics.md",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",

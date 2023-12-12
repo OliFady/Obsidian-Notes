@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XML/XSD Template.md",
+                "file": "XML/SOAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9de41cabb4437ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MQ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XML/XSD Template.md",
+                "file": "MQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XML/XSD Template.md",
+                "file": "MQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XML/XSD Template.md"
+                "file": "MQ.md"
               }
             }
           }
@@ -149,10 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8844bf0a2692ef8c",
+  "active": "9de41cabb4437ee6",
   "lastOpenFiles": [
-    "XML/XSD.md",
+    "XML/SOAP.md",
+    "MQ.md",
     "XML/XSD Template.md",
+    "XML/XSD.md",
     "XML",
     "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
@@ -177,8 +192,6 @@
     "Distributed Systems/CAP Theorem.md",
     "Problem Solving/Memory/Hashing.md",
     "Problem Solving/Memory/Recursion Tree.md",
-    "Spanish/Hola.md",
-    "Spanish/Confusing Words.md",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",

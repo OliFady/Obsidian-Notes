@@ -11,8 +11,12 @@
             "id": "8844bf0a2692ef8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "XML/XSD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "XML/XSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "XML/XSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "XML/XSD.md"
+              }
             }
           }
         ]
@@ -137,11 +145,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
+    "XML/XSD.md",
+    "XML",
     "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Merge Sort.md",
@@ -168,7 +179,6 @@
     "Spanish/Hola.md",
     "Spanish/Confusing Words.md",
     "Problem Solving/Math Basics/Digit Basics.md",
-    "Problem Solving/Math Basics/GCD.md",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",
@@ -176,7 +186,6 @@
     "Drawings/Spanish",
     "Drawings",
     "Distributed Systems",
-    "Obsidian-Notes/Spanish",
-    "Obsidian-Notes/Problem Solving/Memory"
+    "Obsidian-Notes/Spanish"
   ]
 }

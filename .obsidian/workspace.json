@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portability/MQ.md",
+                "file": "Portability/WebSphere MQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portability/MQ.md",
+                "file": "Portability/WebSphere MQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portability/MQ.md",
+                "file": "Portability/WebSphere MQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portability/MQ.md"
+                "file": "Portability/WebSphere MQ.md"
               }
             }
           }
@@ -162,10 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba14e8b5500ef6f8",
+  "active": "9de41cabb4437ee6",
   "lastOpenFiles": [
-    "Portability/SOAP.md",
     "Portability/MQ.md",
+    "Portability/WebSphere MQ.md",
+    "Portability/SOAP.md",
     "Portability/XSD Template.md",
     "Portability/XSD.md",
     "Portability",
@@ -191,7 +192,6 @@
     "Drawings/possessions.md",
     "Distributed Systems/CAP Theorem.md",
     "Problem Solving/Memory/Hashing.md",
-    "Problem Solving/Memory/Recursion Tree.md",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",

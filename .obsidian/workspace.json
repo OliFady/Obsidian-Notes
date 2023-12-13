@@ -11,8 +11,12 @@
             "id": "8844bf0a2692ef8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Portability/ESQL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Portability/ESQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Portability/ESQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Portability/ESQL.md"
+              }
             }
           }
         ]
@@ -141,13 +149,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba14e8b5500ef6f8",
+  "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
-    "Portability/XSD.md",
-    "Portability/XSD Template.md",
     "Portability/WebSphere MQ.md",
+    "Portability/ESQL.md",
     "Portability/SOAP.md",
     "Portability/MQ.md",
+    "Portability/XSD Template.md",
+    "Portability/XSD.md",
     "Portability",
     "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
@@ -170,7 +179,6 @@
     "Spanish/Verbs.md",
     "Drawings/possessions.md",
     "Distributed Systems/CAP Theorem.md",
-    "Problem Solving/Memory/Hashing.md",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",

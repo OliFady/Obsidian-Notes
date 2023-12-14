@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACE/ESQL - Manipulating Data.md",
+                "file": "ACE/ESQL - Environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACE/ESQL - Manipulating Data.md",
+                "file": "ACE/ESQL - Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACE/ESQL - Manipulating Data.md",
+                "file": "ACE/ESQL - Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACE/ESQL - Manipulating Data.md"
+                "file": "ACE/ESQL - Environment.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
-    "ACE/ESQL - Creating New Elements.md",
     "ACE/ESQL - Manipulating Data.md",
+    "ACE/ESQL - Environment.md",
+    "ACE/ESQL - Creating New Elements.md",
     "ACE/ESQL - Accessing Elements in Msg Body.md",
     "ACE/WebSphere MQ.md",
     "XML/XSD Template.md",
@@ -179,7 +180,6 @@
     "Drawings/Selection Sort.md",
     "Drawings/More Verbs.md",
     "Problem Solving/Sorting",
-    "Spanish/Verbs.md",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",

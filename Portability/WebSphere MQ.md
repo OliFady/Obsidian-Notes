@@ -1,6 +1,6 @@
 - Local Queues are the only Queues that hold Msgs
 ### MQMD
-- Message Descriptor Structure
+- Message Descriptor Structure (Header)
 ### MQOPEN & MQCLOSE
 - MQOPEN accesses a certain Object
 - MQOD is passed into MQOPEN call describing the accessed Object

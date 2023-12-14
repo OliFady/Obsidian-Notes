@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portability/ESQL.md",
+                "file": "ACE/ESQL - Manipulating Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portability/ESQL.md",
+                "file": "ACE/ESQL - Manipulating Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portability/ESQL.md",
+                "file": "ACE/ESQL - Manipulating Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portability/ESQL.md"
+                "file": "ACE/ESQL - Manipulating Data.md"
               }
             }
           }
@@ -151,13 +151,16 @@
   },
   "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
-    "Portability/WebSphere MQ.md",
-    "Portability/SOAP.md",
-    "Portability/MQ.md",
-    "Portability/ESQL.md",
-    "Portability/XSD Template.md",
-    "Portability/XSD.md",
-    "Portability",
+    "ACE/ESQL - Creating New Elements.md",
+    "ACE/ESQL - Manipulating Data.md",
+    "ACE/ESQL - Accessing Elements in Msg Body.md",
+    "ACE/WebSphere MQ.md",
+    "XML/XSD Template.md",
+    "XML",
+    "XML/XSD.md",
+    "XML/SOAP.md",
+    "ACE/MQ.md",
+    "ACE",
     "Spanish/Como Estas.md",
     "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Merge Sort.md",
@@ -177,15 +180,12 @@
     "Drawings/More Verbs.md",
     "Problem Solving/Sorting",
     "Spanish/Verbs.md",
-    "Drawings/possessions.md",
-    "Distributed Systems/CAP Theorem.md",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",
     "Problem Solving",
     "Drawings/Spanish",
     "Drawings",
-    "Distributed Systems",
-    "Obsidian-Notes/Spanish"
+    "Distributed Systems"
   ]
 }

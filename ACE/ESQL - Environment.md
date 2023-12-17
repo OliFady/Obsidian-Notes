@@ -27,6 +27,8 @@ DECLARE start REFERENCE TO ExceptionList.*[1];
 WHILE start.Number IS NOT NULL DO 
 -- more ESQL 
 -- Move start to the last child of the field to which it currently points 
-MOVE start LASTCHILD; 
+ MOVE start LASTCHILD; 
+-- Move start to the Sibling of the field to which it currently points 
+MOVE start NEXTSIBLING
 END WHILE;
 ```

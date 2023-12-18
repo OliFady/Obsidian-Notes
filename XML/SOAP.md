@@ -4,6 +4,8 @@
 - The SOAP mustUnderstand attribute can be used to indicate whether a header entry is mandatory or optional for the recipient to process.
 - The SOAP actor attribute is used to address the Header element to a specific endpoint.
 - The optional SOAP Fault element is used to indicate error messages.
+### SOAP Extract
+- Removes SOAP Envelope 
 
 ```xml 
 <?xml version="1.0"?>  

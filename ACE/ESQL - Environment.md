@@ -8,7 +8,7 @@ SET OutputLocalEnvironment.Destination.MQ.DestinationData.queueManagerName = 'my
 SET OutputLocalEnvironment.Destination.MQ.DestinationData.queueName = 'myQueueName'; END IF;
 ```
 
-- Data in environment is propagated as part of the logical tree to subsequent nodes in the message flow. If you create a new output message in a Compute node, the environment tree is also copied from the input message to the new output message.
+- Data in environment is propagated as part of the logical tree to subsequent nodes in the message flow (In every Layer). If you create a new output message in a Compute node, the environment tree is also copied from the input message to the new output message.
 
 ```sql
 SET Environment.Variables = 

@@ -1,4 +1,5 @@
-- A SOAP message MUST be encoded using XML
+- A SOAP message MUST be encoded using XML (WSDL) Web Service Description Language
+- A Service queries UDDI to get the WSDL
 - A SOAP message MUST use the SOAP Envelope namespace (it's the root element)
 - The SOAP mustUnderstand attribute can be used to indicate whether a header entry is mandatory or optional for the recipient to process.
 - The SOAP actor attribute is used to address the Header element to a specific endpoint.

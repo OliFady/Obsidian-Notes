@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving/Memory/Call Stack.md",
+                "file": "Problem Solving/Sorting/Merge Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Solving/Memory/Call Stack.md",
+                "file": "Problem Solving/Sorting/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem Solving/Memory/Call Stack.md",
+                "file": "Problem Solving/Sorting/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Solving/Memory/Call Stack.md"
+                "file": "Problem Solving/Sorting/Merge Sort.md"
               }
             }
           }
@@ -151,6 +151,11 @@
   },
   "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
+    "Pasted image 20231220103007.png",
+    "Problem Solving/Sorting/Bubble Sort.md",
+    "Problem Solving/Sorting/Selection Sort.md",
+    "Problem Solving/Sorting/Insertion Sort.md",
+    "Problem Solving/Memory/Call Stack.md",
     "Problem Solving/Data Structures/Stack.md",
     "Problem Solving/Data Structures/Queue.md",
     "Pasted image 20231220095547.png",
@@ -179,10 +184,6 @@
     "Drawings/Como Estas 2.md",
     "Drawings/Como Estas 1.md",
     "Distributed Systems/Hashing.md",
-    "Distributed Systems/Git Internals.md",
-    "Drawings/Insertion Sort.md",
-    "Problem Solving/Sorting/Insertion Sort.md",
-    "Drawings/Bubble Sort.md",
     "Problem Solving/Sorting",
     "Spanish",
     "Problem Solving/Memory",

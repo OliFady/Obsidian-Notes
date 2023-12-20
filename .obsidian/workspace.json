@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e4ddb3d8e8e49c",
+        "id": "73879f91ed3ecbb4",
         "type": "tabs",
         "children": [
           {
-            "id": "8844bf0a2692ef8c",
+            "id": "829f708a95f79efd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distributed Systems/Serialization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems/Serialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems/Serialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Distributed Systems/Serialization.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,35 +141,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8844bf0a2692ef8c",
+  "active": "829f708a95f79efd",
   "lastOpenFiles": [
-    "Pasted image 20231220115610.png",
-    "Pasted image 20231220115609.png",
-    "Problem Solving/Sorting/Merge Sort.md",
+    "ACE/Rajhi Framework.md",
+    "ACE/ESQL/ESQL - Creating New Elements.md",
+    "ACE/MQ/WebSphere MQ.md",
+    "ACE/MQ/MQ.md",
+    "ACE/MQ",
+    "ACE/ESQL/ESQL - Accessing Elements in Msg Body.md",
+    "ACE/ESQL/ESQL - Environment.md",
+    "ACE/ESQL/ESQL - Manipulating Data.md",
+    "Drawings/Pasted image 20231220091104.png",
+    "ACE/ESQL",
+    "Drawings/Pasted image 20231220091132.png",
+    "Drawings/Pasted image 20231220091323.png",
+    "Distributed Systems/Git Internals.md",
     "Distributed Systems/Serialization.md",
-    "Pasted image 20231220103007.png",
+    "Drawings/Pasted image 20231220115610.png",
+    "Drawings/Pasted image 20231220115609.png",
+    "Problem Solving/Sorting/Merge Sort.md",
+    "Drawings/Pasted image 20231220103007.png",
     "Problem Solving/Sorting/Bubble Sort.md",
     "Problem Solving/Sorting/Selection Sort.md",
     "Problem Solving/Sorting/Insertion Sort.md",
     "Problem Solving/Memory/Call Stack.md",
     "Problem Solving/Data Structures/Stack.md",
     "Problem Solving/Data Structures/Queue.md",
-    "Pasted image 20231220095547.png",
-    "Pasted image 20231220091323.png",
-    "Pasted image 20231220091132.png",
-    "Pasted image 20231220091104.png",
+    "Drawings/Pasted image 20231220095547.png",
     "Problem Solving/Data Structures",
-    "ACE/ESQL - Environment.md",
-    "ACE/ESQL - Creating New Elements.md",
-    "ACE/ESQL - Accessing Elements in Msg Body.md",
-    "ACE/ESQL - Manipulating Data.md",
-    "ACE/Rajhi Framework.md",
-    "XML/SOAP.md",
-    "XML/XSD Template.md",
-    "ACE/WebSphere MQ.md",
-    "XML/XSD.md",
-    "XML",
-    "ACE/MQ.md",
+    "ACE/XML/SOAP.md",
+    "ACE/XML/XSD Template.md",
+    "ACE/XML/XSD.md",
+    "ACE/XML",
     "ACE",
     "Spanish/Como Estas.md",
     "Drawings/Merge Sort.md",
@@ -185,13 +180,10 @@
     "Drawings/Git Objects.md",
     "Drawings/Consistent Hashing.md",
     "Drawings/Como Estas 2.md",
-    "Drawings/Como Estas 1.md",
     "Problem Solving/Sorting",
     "Spanish",
     "Problem Solving/Memory",
     "Problem Solving/Math Basics",
-    "Problem Solving",
-    "Drawings/Spanish",
-    "Drawings"
+    "Problem Solving"
   ]
 }

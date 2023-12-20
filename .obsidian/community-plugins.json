@@ -3,5 +3,7 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-linter",
+  "obsidian-spaced-repetition"
 ]

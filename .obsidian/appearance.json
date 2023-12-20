@@ -2,5 +2,7 @@
   "accentColor": "#d400ff",
   "cssTheme": "",
   "interfaceFontFamily": "KacstDigital",
-  "baseFontSize": 17
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "translucency": true
 }

@@ -11,8 +11,12 @@
             "id": "829f708a95f79efd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Problem Solving/Graph Theory/Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Problem Solving/Graph Theory/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Problem Solving/Graph Theory/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Problem Solving/Graph Theory/Basics.md"
+              }
+            }
+          },
+          {
+            "id": "85bbcc5cf7454e35",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -138,11 +155,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "829f708a95f79efd",
   "lastOpenFiles": [
+    "Drawings/Pasted image 20231220133517.png",
+    "Problem Solving/Graph Theory",
+    "Problem Solving/Graph Theory/Basics.md",
     "ACE/Rajhi Framework.md",
     "ACE/ESQL/ESQL - Creating New Elements.md",
     "ACE/MQ/WebSphere MQ.md",
@@ -179,11 +200,9 @@
     "Drawings/Linear Hashing.md",
     "Drawings/Git Objects.md",
     "Drawings/Consistent Hashing.md",
-    "Drawings/Como Estas 2.md",
     "Problem Solving/Sorting",
     "Spanish",
     "Problem Solving/Memory",
-    "Problem Solving/Math Basics",
-    "Problem Solving"
+    "Problem Solving/Math Basics"
   ]
 }

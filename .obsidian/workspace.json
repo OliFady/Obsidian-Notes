@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md",
+                "file": "Distributed Systems/Serialization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md",
+                "file": "Distributed Systems/Serialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md",
+                "file": "Distributed Systems/Serialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Solving/Sorting/Merge Sort.md"
+                "file": "Distributed Systems/Serialization.md"
               }
             }
           }
@@ -151,6 +151,10 @@
   },
   "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
+    "Pasted image 20231220115610.png",
+    "Pasted image 20231220115609.png",
+    "Problem Solving/Sorting/Merge Sort.md",
+    "Distributed Systems/Serialization.md",
     "Pasted image 20231220103007.png",
     "Problem Solving/Sorting/Bubble Sort.md",
     "Problem Solving/Sorting/Selection Sort.md",
@@ -176,14 +180,12 @@
     "ACE/MQ.md",
     "ACE",
     "Spanish/Como Estas.md",
-    "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Merge Sort.md",
     "Drawings/Linear Hashing.md",
     "Drawings/Git Objects.md",
     "Drawings/Consistent Hashing.md",
     "Drawings/Como Estas 2.md",
     "Drawings/Como Estas 1.md",
-    "Distributed Systems/Hashing.md",
     "Problem Solving/Sorting",
     "Spanish",
     "Problem Solving/Memory",

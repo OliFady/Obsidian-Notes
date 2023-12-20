@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving/Data Structures/Stack.md",
+                "file": "Problem Solving/Memory/Call Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Solving/Data Structures/Stack.md",
+                "file": "Problem Solving/Memory/Call Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem Solving/Data Structures/Stack.md",
+                "file": "Problem Solving/Memory/Call Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Solving/Data Structures/Stack.md"
+                "file": "Problem Solving/Memory/Call Stack.md"
               }
             }
           }
@@ -151,12 +151,14 @@
   },
   "active": "8844bf0a2692ef8c",
   "lastOpenFiles": [
+    "Problem Solving/Data Structures/Stack.md",
+    "Problem Solving/Data Structures/Queue.md",
+    "Pasted image 20231220095547.png",
     "Pasted image 20231220091323.png",
     "Pasted image 20231220091132.png",
     "Pasted image 20231220091104.png",
     "Problem Solving/Data Structures",
     "ACE/ESQL - Environment.md",
-    "Problem Solving/Data Structures/Stack.md",
     "ACE/ESQL - Creating New Elements.md",
     "ACE/ESQL - Accessing Elements in Msg Body.md",
     "ACE/ESQL - Manipulating Data.md",
@@ -181,7 +183,6 @@
     "Drawings/Insertion Sort.md",
     "Problem Solving/Sorting/Insertion Sort.md",
     "Drawings/Bubble Sort.md",
-    "Problem Solving/Sorting/Bubble Sort.md",
     "Problem Solving/Sorting",
     "Spanish",
     "Problem Solving/Memory",

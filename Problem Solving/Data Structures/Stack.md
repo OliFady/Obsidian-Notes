@@ -1,3 +1,4 @@
+- LIFO
 ## Stack Overflow
 
 - *Underflow* => Throw an exception if User attempts to remove from Empty Stack.

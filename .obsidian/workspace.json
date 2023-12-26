@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving/Recursion.md",
+                "file": "Problem Solving/Recursion/Path Finding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Solving/Recursion.md",
+                "file": "Problem Solving/Recursion/Path Finding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem Solving/Recursion.md",
+                "file": "Problem Solving/Recursion/Path Finding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Solving/Recursion.md"
+                "file": "Problem Solving/Recursion/Path Finding.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "829f708a95f79efd",
   "lastOpenFiles": [
+    "Problem Solving/Recursion/Recursion Basics.md",
+    "Problem Solving/Recursion/Path Finding.md",
+    "Problem Solving/Recursion",
     "Problem Solving/Graph Theory/Basics.md",
-    "Problem Solving/Recursion.md",
     "Drawings/Pasted image 20231220133517.png",
     "Problem Solving/Graph Theory",
     "ACE/Rajhi Framework.md",
@@ -200,10 +202,8 @@
     "Drawings/Merge Sort.md",
     "Drawings/Linear Hashing.md",
     "Drawings/Git Objects.md",
-    "Drawings/Consistent Hashing.md",
     "Problem Solving/Sorting",
     "Spanish",
-    "Problem Solving/Memory",
-    "Problem Solving/Math Basics"
+    "Problem Solving/Memory"
   ]
 }

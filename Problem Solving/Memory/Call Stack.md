@@ -1,2 +1,2 @@
 ## Recursion
-![[Recursion]]
+![[Drawings/Recursion]]

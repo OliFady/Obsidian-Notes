@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Solving/Graph Theory/Basics.md",
+                "file": "Problem Solving/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Solving/Graph Theory/Basics.md",
+                "file": "Problem Solving/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem Solving/Graph Theory/Basics.md",
+                "file": "Problem Solving/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Solving/Graph Theory/Basics.md"
+                "file": "Problem Solving/Recursion.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "829f708a95f79efd",
   "lastOpenFiles": [
+    "Problem Solving/Graph Theory/Basics.md",
+    "Problem Solving/Recursion.md",
     "Drawings/Pasted image 20231220133517.png",
     "Problem Solving/Graph Theory",
-    "Problem Solving/Graph Theory/Basics.md",
     "ACE/Rajhi Framework.md",
     "ACE/ESQL/ESQL - Creating New Elements.md",
     "ACE/MQ/WebSphere MQ.md",

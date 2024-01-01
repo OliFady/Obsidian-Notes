@@ -1,2 +1,0 @@
-## Fibonacci Numbers
-![[Fibonacci Sequence]]

@@ -1,1 +1,0 @@
-![[Drawings/Insertion Sort]]

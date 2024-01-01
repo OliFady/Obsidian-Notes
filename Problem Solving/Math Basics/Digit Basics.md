@@ -1,3 +1,0 @@
-## Extracting Numbers
-![[Extract Digits]]
-## 

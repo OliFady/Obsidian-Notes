@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "885d8130e6cd5ed0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "829f708a95f79efd",
+  "active": "885d8130e6cd5ed0",
   "lastOpenFiles": [
     "Problem Solving/Recursion/Recursion Basics.md",
     "Problem Solving/Recursion/Path Finding.md",

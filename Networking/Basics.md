@@ -9,3 +9,8 @@
 - Layer 3 => The internet layer fragments the segments into IP *datagrams* of the necessary size for the local net‐ work and passes them to the host-to-network layer for transmission onto the wire. 
 - Without the internet layer or something like it, each computer could only talk to other computers that shared its particular type of network. The internet layer is responsible for connecting heterogenous networks to each other using homogeneous protocols.
 - Layer 2 => The host-to-network layer encodes the digital data as analog signals
+
+## Types of Networks
+
+- Client/Server
+- Peer-to-Peer

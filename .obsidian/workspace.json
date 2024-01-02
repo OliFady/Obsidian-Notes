@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Threads.md",
+                "file": "Networking/Addresses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Threads.md",
+                "file": "Networking/Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Threads.md",
+                "file": "Networking/Addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Threads.md"
+                "file": "Networking/Addresses.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "8a2ae3d9a98651a6",
   "lastOpenFiles": [
+    "Networking/Threads.md",
+    "Networking/Addresses.md",
     "Drawings/Pasted image 20240102094103.png",
     "Networking/Streams.md",
-    "Networking/Threads.md",
     "Networking/Basics.md",
     "Drawings/Git Objects.md",
     "Networking",

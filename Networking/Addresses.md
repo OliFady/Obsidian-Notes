@@ -1,0 +1,2 @@
+- Hostnames are Human-Readable (google.com), Addresses are not (192.168.1.1)
+- One Hostname can map to multiple IP Addresses. Domain Name Server is responsible for routing each request.

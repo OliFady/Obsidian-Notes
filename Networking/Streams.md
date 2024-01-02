@@ -1,0 +1,1 @@
+- Input streams read data; output streams write data

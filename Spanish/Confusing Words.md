@@ -1,1 +1,0 @@
-![[Drawings/Spanish/Confusing Words]]

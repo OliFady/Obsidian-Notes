@@ -4,3 +4,4 @@ This authority has the username mp3, the password mp3, the host ci43198-a.ashvil
 It has the *Scheme* ftp and the path /VanHalen-Jump.mp3
 - URL is the most Common URI implementation that further specifies the Protocol (Scheme) and the specific location of the Resource
 - The URL class is the simplest way for a Java program to locate and retrieve data from the network. You do not need to worry about the details of the protocol being used, or how to communicate with the server; you simply tell Java the URL and it gets the data for you.
+- If the relative link begins with a /, then it is relative to the document root instead of relative to the current file

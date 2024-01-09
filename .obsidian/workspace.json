@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43e180930cc1cffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/HTTP.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/HTTP.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/HTTP.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -159,11 +172,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8a2ae3d9a98651a6",
+  "active": "43e180930cc1cffa",
   "lastOpenFiles": [
+    "Networking/HTTP.md",
+    "Untitled.md",
     "ACE/MQ/WebSphere MQ.md",
     "ACE/MQ/MQ.md",
-    "Networking/HTTP.md",
     "Networking/URI.md",
     "Networking/Addresses.md",
     "Networking/Threads.md",
@@ -199,7 +213,6 @@
     "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Pasted image 20231220103007.png",
     "Problem Solving/Sorting/Bubble Sort.md",
-    "Problem Solving/Sorting/Selection Sort.md",
     "Drawings/Pasted image 20231220095547.png",
     "Problem Solving/Data Structures",
     "ACE/XML",

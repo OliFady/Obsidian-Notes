@@ -1,6 +1,6 @@
 ## Header Example
 
-- Get 
+- Get Request is Idempotent (Executing it multiple times has no side effects)
 ```java
 GET /index.html HTTP/1.1 //Method, Resource & Protocol Version
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0 //for Browser tailred Responses

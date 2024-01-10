@@ -1,6 +1,6 @@
-- [ ] Character Frequency Array 
+- [x] Heaps (Priority Queue)
+- [ ] Tree Traversal
 - [ ] 2D Matrix Traversal
-- [ ] Linked List Traversal
 - [ ] Backtracking
 - [ ] DP
 - [ ] Greedy

@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "right": {
     "id": "ed015a044f7eba00",
@@ -159,7 +159,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "43e180930cc1cffa",
+  "active": "ba14e8b5500ef6f8",
   "lastOpenFiles": [
     "Need to Practice.md",
     "Compiler Basics/Basic Terminologies.md",

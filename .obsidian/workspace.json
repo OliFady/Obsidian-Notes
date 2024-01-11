@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Need to Practice.md",
+                "file": "Compiler Basics/Basic Terminologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Need to Practice.md",
+                "file": "Compiler Basics/Basic Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Need to Practice.md",
+                "file": "Compiler Basics/Basic Terminologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Need to Practice.md"
+                "file": "Compiler Basics/Basic Terminologies.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "43e180930cc1cffa",
   "lastOpenFiles": [
-    "Networking/HTTP.md",
     "Need to Practice.md",
+    "Compiler Basics/Basic Terminologies.md",
+    "Compiler Basics",
+    "Networking/HTTP.md",
     "ACE/MQ/WebSphere MQ.md",
     "ACE/MQ/MQ.md",
     "Networking/URI.md",
@@ -199,12 +201,10 @@
     "Drawings/Pasted image 20231220115609.png",
     "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Pasted image 20231220103007.png",
-    "Problem Solving/Sorting/Bubble Sort.md",
     "Drawings/Pasted image 20231220095547.png",
     "Problem Solving/Data Structures",
     "ACE/XML",
     "ACE",
-    "Problem Solving/Sorting",
-    "Spanish"
+    "Problem Solving/Sorting"
   ]
 }

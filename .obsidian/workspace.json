@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13bc1f80f3c092ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiler Basics/Basic Terminologies.md",
+                "file": "PL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiler Basics/Basic Terminologies.md",
+                "file": "PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiler Basics/Basic Terminologies.md"
+                "file": "PL.md"
               }
             }
           },
@@ -159,10 +172,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ba14e8b5500ef6f8",
+  "active": "13bc1f80f3c092ff",
   "lastOpenFiles": [
-    "Need to Practice.md",
     "Compiler Basics/Basic Terminologies.md",
+    "PL.md",
+    "Need to Practice.md",
     "Compiler Basics",
     "Networking/HTTP.md",
     "ACE/MQ/WebSphere MQ.md",
@@ -199,7 +213,6 @@
     "Distributed Systems/Serialization.md",
     "Drawings/Pasted image 20231220115610.png",
     "Drawings/Pasted image 20231220115609.png",
-    "Problem Solving/Sorting/Merge Sort.md",
     "Drawings/Pasted image 20231220103007.png",
     "Drawings/Pasted image 20231220095547.png",
     "Problem Solving/Data Structures",

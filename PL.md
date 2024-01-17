@@ -1,3 +1,2 @@
 Java => Problem Solving
-Go => DSA
-C => Low Level
+C => Low Level | DSA

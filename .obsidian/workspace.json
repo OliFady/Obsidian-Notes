@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PL.md",
+                "file": "Networking/Before Backend gets the Request.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PL.md",
+                "file": "Networking/Before Backend gets the Request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PL.md",
+                "file": "Networking/Before Backend gets the Request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PL.md"
+                "file": "Networking/Before Backend gets the Request.md"
               }
             }
           },
@@ -174,9 +174,10 @@
   },
   "active": "13bc1f80f3c092ff",
   "lastOpenFiles": [
+    "Need to Practice.md",
+    "Networking/Before Backend gets the Request.md",
     "Compiler Basics/Basic Terminologies.md",
     "PL.md",
-    "Need to Practice.md",
     "Compiler Basics",
     "Networking/HTTP.md",
     "ACE/MQ/WebSphere MQ.md",
@@ -210,7 +211,6 @@
     "Drawings/Pasted image 20231220091132.png",
     "Drawings/Pasted image 20231220091323.png",
     "Distributed Systems/Git Internals.md",
-    "Distributed Systems/Serialization.md",
     "Drawings/Pasted image 20231220115610.png",
     "Drawings/Pasted image 20231220115609.png",
     "Drawings/Pasted image 20231220103007.png",
